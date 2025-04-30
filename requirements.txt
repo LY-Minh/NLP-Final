@@ -3,3 +3,6 @@ numpy==2.2.4
 scikit-learn==1.5.2
 spacy==3.8.5
 nltk==3.9.1
+gensimn
+ipython==8.0.0
+pyLDAvis
